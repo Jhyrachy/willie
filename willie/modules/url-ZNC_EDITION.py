@@ -13,6 +13,7 @@ from __future__ import unicode_literals
 
 import re
 import sys
+import znc
 from willie import web, tools
 from willie.module import commands, rule, example
 
